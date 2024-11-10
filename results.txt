@@ -1,0 +1,5 @@
+Computer Name: SimonPC
+Date of Test: 2024-11-10 22:03:28
+Bubble Sort Time: 10.553180 seconds
+Quick Sort Time: 0.023021 seconds
+
